@@ -124,7 +124,7 @@
 ## Σύνδεσμοι
 - **Ζωντανή Επίδειξη**: https://vle.cited.gr/apps/pcbuilder
 - **CITEd.gr VLE**: https://vle.cited.gr
-- **CITEd.gr Website**: https://cited.gr/apps
+- **CITEd.gr Website**: https://vle.cited.gr/apps
 
 ---
 
